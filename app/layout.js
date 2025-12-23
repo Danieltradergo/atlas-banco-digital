@@ -1,7 +1,3 @@
-'use client';
-
-import React from 'react';
-
 export const metadata = {
   title: 'Atlas Banco Digital',
   description: 'Banco digital com full-stack moderno',
